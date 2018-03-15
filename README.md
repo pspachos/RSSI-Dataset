@@ -31,7 +31,8 @@ Topology
 In both environments, nodes were placed on tables when preforming experiments. This limits the amount of reflections of transmitting signals on the ground upwards reducing the multi-path signal effects that occur while transmitting. Placing nodes on tables also allows tests to be preformed at a height that is common to some one who is carrying smartphone in their pocket, or wearing a smartwatch on their wrist.
 
 # Dataset
-The RSSI-Dataset contains two folder, readings for Environment1 and readings for Environment2. Each folder containts the RSSI readings in the following format: *Technology* *Position* *Distance* m, where
-- Technology is WiFi, Zigbee, Arduino or Raspberry Pi
+The RSSI-Dataset contains two folder, readings for Environment1 and readings for Environment2. Each folder containts four subfolders with each of the tested technologies: BLE, WiFi, Zigbee and LoRaWAN. 
+
+For each technology the are nine files with the RSSI readings in the different positions. The name of each file has the format: *Distance* *Position*.txt where:
 - Position is D_1, D_2 or D_2
 - Distance is 1, 3 or 5 meters
