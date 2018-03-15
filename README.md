@@ -34,5 +34,9 @@ In both environments, nodes were placed on tables when preforming experiments. T
 The RSSI-Dataset contains two folder, readings for Environment1 and readings for Environment2. Each folder containts four subfolders with each of the tested technologies: BLE, WiFi, Zigbee and LoRaWAN. 
 
 For each technology the are nine files with the RSSI readings in the different positions. The name of each file has the format: *Distance* *Position*.txt where:
-- Position is D_1, D_2 or D_2
-- Distance is 1, 3 or 5 meters
+- Distance is 1, 3, or 5 meters
+- Position is D_1, D_2, or D_2
+
+For each file there are 300 RSSI readings in the format: Node*Letter*: *value* where:
+- Letter is A, B, or C
+- Value is the RSSI value in this position
