@@ -10,7 +10,7 @@ The RSSI-Dataset  provides a comprehensive set of Received Signal Strength Indic
  
  <p align="center">
 Equipment used in experimentation             
-<img src="https://github.com/pspachos/RSSI-Dataset/blob/master/images/abstract.pdf">
+<img src="https://github.com/pspachos/RSSI-Dataset/blob/master/images/abstract.jpg">
  </p>
 
 # Experiment
