@@ -6,7 +6,12 @@ The RSSI-Dataset  provides a comprehensive set of Received Signal Strength Indic
  - Bluetooth Low Energy (BLE) and 
  - Long Range Area-Wide Network (LoRaWAN). 
  
- For experimentation  Arduinos Raspberry Pi, XBees, Gimbal beacons Series 10 and Dragino LoRa Shield were also used.  
+ For experimentation  Arduinos Raspberry Pi, XBees, Gimbal beacons Series 10 and Dragino LoRa Shield were also used.
+ 
+ <p align="center">
+Equipment used in experimentation             
+<img src="https://github.com/pspachos/RSSI-Dataset/blob/master/images/abstract.pdf">
+ </p>
 
 # Experiment
 
