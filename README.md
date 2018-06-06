@@ -35,6 +35,12 @@ Topology
 
 In both environments, nodes were placed on tables when preforming experiments. This limits the amount of reflections of transmitting signals on the ground upwards reducing the multi-path signal effects that occur while transmitting. Placing nodes on tables also allows tests to be preformed at a height that is common to some one who is carrying smartphone in their pocket, or wearing a smartwatch on their wrist.
 
+# Related publication
+Please cite this paper if you use this data set in a publication.
+
+S. Sadowski and P. Spachos, "RSSI-Based Indoor Localization with the Internet of Things," in IEEE Access.
+doi: 10.1109/ACCESS.2018.2843325
+
 # Dataset
 The RSSI-Dataset contains two folder, readings for Environment1 and readings for Environment2. Each folder containts four subfolders with each of the tested technologies: BLE, WiFi, Zigbee and LoRaWAN. 
 
